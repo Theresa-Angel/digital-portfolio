@@ -16,7 +16,7 @@ body{
 header{
     z-index: 889;
     position: fixed;
-    background-color: rgba(255,255,255,0.1);
+    background-color: #3a6cf4;
     top: 0;
     left: 0;
     width: 100%;
