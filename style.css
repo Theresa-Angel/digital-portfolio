@@ -6,10 +6,6 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
-html{
-    font-size:62.5%;
-}
-
 body{
     width: 100%;
     height: auto;
@@ -82,6 +78,7 @@ section{
 
 .main .content{
     max-width: 800px;
+    text-align:center;
 }
 
 .main .content h2{
