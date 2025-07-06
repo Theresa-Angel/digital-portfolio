@@ -118,6 +118,7 @@ section{
       max-width: 600px;
       font-size: 1rem;
       color: black;
+      justify-content: center;
       animation: fadeUp 1.7s ease;
     }
 
